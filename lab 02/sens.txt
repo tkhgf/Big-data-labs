@@ -1,0 +1,582 @@
+	Humidity # 51.25185012817383	Hum Ambient temperature # 27.42130126953125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # -0.4375	 Y # -0.765625	Z # 0.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # -0.046875	 Y # -0.546875	Z # 0.671875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # -0.015625	 Y # -0.5	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # 0.1875	 Y # -0.671875	Z # 0.703125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # 0.234375	 Y # -0.71875	Z # 0.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # 0.421875	 Y # -0.75	Z # 0.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # 0.390625	 Y # -0.875	Z # 0.609375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # 0.46875	 Y # -0.640625	Z # 0.6875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:34 CDT 2014	 X # 0.46875	 Y # -0.640625	Z # 0.765625	Humidity # 51.36629104614258	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.5625	 Y # -0.46875	Z # 0.78125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.5	 Y # -0.40625	Z # 0.390625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.453125	 Y # 0.015625	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.4375	 Y # -0.28125	Z # 0.890625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.390625	 Y # -0.265625	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.46875	 Y # -0.296875	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.46875	 Y # -0.28125	Z # 0.796875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.578125	 Y # -0.234375	Z # 0.796875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.578125	 Y # -0.203125	Z # 0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:35 CDT 2014	 X # 0.703125	 Y # -0.234375	Z # 0.484375	Humidity # 51.48836135864258	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.6875	 Y # -0.15625	Z # 0.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.75	 Y # -0.203125	Z # 0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.765625	 Y # -0.375	Z # 0.53125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.734375	 Y # -0.296875	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.765625	 Y # -0.25	Z # 0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.90625	 Y # -0.03125	Z # 0.40625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.578125	 Y # -0.25	Z # 0.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.796875	 Y # -0.171875	Z # 0.421875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.8125	 Y # -0.171875	Z # 0.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:36 CDT 2014	 X # 0.78125	 Y # -0.140625	Z # 0.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 1.0	 Y # 0.078125	Z # 0.484375	Humidity # 51.80880355834961	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.671875	 Y # -0.28125	Z # 0.578125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.75	 Y # -0.203125	Z # 0.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.8125	 Y # -0.125	Z # 0.578125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.765625	 Y # -0.15625	Z # 0.703125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.765625	 Y # -0.21875	Z # 0.484375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.65625	 Y # -0.234375	Z # 0.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.9375	 Y # -0.21875	Z # 0.40625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.890625	 Y # -0.171875	Z # 0.40625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:37 CDT 2014	 X # 0.796875	 Y # -0.1875	Z # 0.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.796875	 Y # -0.109375	Z # 0.453125	Humidity # 51.93850326538086	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.765625	 Y # -0.25	Z # 0.5625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.828125	 Y # -0.03125	Z # 0.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.875	 Y # -0.03125	Z # 0.21875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 1.140625	 Y # 0.3125	Z # 0.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.78125	 Y # 0.203125	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 1.03125	 Y # 0.25	Z # 0.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 1.03125	 Y # 0.25	Z # 0.53125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.515625	 Y # 0.15625	Z # 0.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:38 CDT 2014	 X # 0.859375	 Y # 0.421875	Z # 1.34375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.71875	 Y # 0.0	Z # 0.25	Humidity # 52.052947998046875	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 1.125	 Y # 0.265625	Z # 0.578125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.734375	 Y # 0.109375	Z # 0.609375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.953125	 Y # 0.03125	Z # 0.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.71875	 Y # 0.0	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.6875	 Y # -0.078125	Z # 0.421875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.625	 Y # -0.203125	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.75	 Y # -0.234375	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.671875	 Y # -0.1875	Z # 0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:39 CDT 2014	 X # 0.640625	 Y # -0.234375	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.65625	 Y # -0.21875	Z # 0.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.65625	 Y # -0.328125	Z # 0.828125	Humidity # 52.22842788696289	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.640625	 Y # -0.140625	Z # 0.78125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.65625	 Y # 0.25	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.59375	 Y # -0.234375	Z # 0.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.625	 Y # -0.234375	Z # 0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.6875	 Y # -0.21875	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.59375	 Y # -0.203125	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.5	 Y # -0.25	Z # 0.703125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:40 CDT 2014	 X # 0.546875	 Y # -0.140625	Z # 0.796875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.625	 Y # -0.078125	Z # 0.875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.703125	 Y # -0.078125	Z # 0.75	Humidity # 52.28946304321289	Hum Ambient temperature # 27.338181762695307			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.640625	 Y # -0.109375	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.53125	 Y # -0.234375	Z # 0.96875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.609375	 Y # 0.03125	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.421875	 Y # -0.09375	Z # 0.9375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.515625	 Y # -0.046875	Z # 0.890625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.46875	 Y # 0.015625	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.546875	 Y # -0.078125	Z # 0.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:41 CDT 2014	 X # 0.5625	 Y # 0.125	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.625	 Y # 0.171875	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.484375	 Y # 0.109375	Z # 0.453125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.65625	 Y # 0.0625	Z # 0.859375	Humidity # 52.35049819946289	Hum Ambient temperature # 27.335500488281248			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.65625	 Y # -0.046875	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.65625	 Y # -0.046875	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.546875	 Y # -0.046875	Z # 0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.484375	 Y # -0.109375	Z # 0.890625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.453125	 Y # -0.25	Z # 0.875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.46875	 Y # -0.203125	Z # 1.078125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:42 CDT 2014	 X # 0.296875	 Y # -0.125	Z # 0.484375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # 0.5	 Y # -1.265625	Z # 1.28125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # 0.921875	 Y # -0.796875	Z # 1.40625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # 1.234375	 Y # 0.25	Z # 0.421875	Humidity # 52.41153335571289	Hum Ambient temperature # 27.249699707031247			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # -0.953125	 Y # 0.21875	Z # 0.3125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 1.375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # -0.8125	 Y # 0.953125	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # -0.875	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:43 CDT 2014	 X # -0.578125	 Y # 0.5625	Z # -1.25			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # -1.796875	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # -1.203125	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # -1.203125	 Y # 1.984375	Z # 0.40625	Humidity # 52.175018310546875	Hum Ambient temperature # 27.252380981445306			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # -1.90625	 Y # 1.984375	Z # -1.078125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # 0.203125	 Y # 1.984375	Z # -1.078125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:44 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -0.296875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # -0.25	 Y # 1.984375	Z # -1.171875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375	Humidity # 51.37392044067383	Hum Ambient temperature # 27.249699707031247			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 0.234375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # -0.125	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # -0.828125	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:45 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -1.828125	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -1.828125	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -0.953125	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 1.703125	Humidity # 50.40497589111328	Hum Ambient temperature # 27.163898925781247			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # 0.640625	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -0.375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:46 CDT 2014	 X # 1.984375	 Y # 1.078125	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # -1.5625	 Y # 1.984375	Z # 0.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # -1.671875	 Y # 1.984375	Z # -0.265625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # 1.984375	 Y # 1.390625	Z # -0.765625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0	Humidity # 49.32921600341797	Hum Ambient temperature # 27.166580200195305			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -0.28125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # -1.546875	 Y # 1.984375	Z # 0.78125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # 1.984375	 Y # 1.765625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # 1.984375	 Y # 0.53125	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:47 CDT 2014	 X # 1.984375	 Y # 0.53125	Z # -0.359375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -0.90625	 Y # 1.984375	Z # -0.359375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -1.734375	 Y # 1.984375	Z # 0.21875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375	Humidity # 48.59678268432617	Hum Ambient temperature # 27.088823242187495			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # 1.984375	 Y # -1.09375	Z # 0.328125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -1.203125	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:48 CDT 2014	 X # -0.3125	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.984375	 Y # 1.71875	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # 1.984375	 Y # -0.359375	Z # -0.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -1.265625	 Y # -0.046875	Z # 1.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.25	 Y # -0.203125	Z # 0.5			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.703125	 Y # -0.1875	Z # 1.046875	Humidity # 48.024566650390625	Hum Ambient temperature # 27.088823242187495			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -1.0625	 Y # -0.640625	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.671875	 Y # -0.421875	Z # 0.46875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.5625	 Y # -0.390625	Z # 0.65625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.5625	 Y # -0.390625	Z # 1.328125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:49 CDT 2014	 X # -0.09375	 Y # -0.546875	Z # 0.53125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.71875	 Y # -0.734375	Z # 0.328125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.703125	 Y # -0.71875	Z # 0.078125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.734375	 Y # -0.71875	Z # 0.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.65625	 Y # -0.609375	Z # 0.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.84375	 Y # -0.6875	Z # 0.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.703125	 Y # -0.65625	Z # 0.09375	Humidity # 47.70412826538086	Hum Ambient temperature # 27.003022460937494			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.71875	 Y # -0.6875	Z # 0.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.734375	 Y # -0.65625	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.734375	 Y # -0.671875	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:50 CDT 2014	 X # -0.734375	 Y # -0.65625	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.71875	 Y # -0.6875	Z # 0.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.75	 Y # -0.65625	Z # 0.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.765625	 Y # -0.671875	Z # 0.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.75	 Y # -0.734375	Z # 0.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.671875	 Y # -0.671875	Z # 0.078125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.75	 Y # -0.65625	Z # 0.0625	Humidity # 47.70412826538086	Hum Ambient temperature # 27.003022460937494			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.75	 Y # -0.65625	Z # 0.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.765625	 Y # -0.640625	Z # 0.046875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.78125	 Y # -0.65625	Z # 0.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:51 CDT 2014	 X # -0.765625	 Y # -0.65625	Z # 0.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.78125	 Y # -0.65625	Z # 0.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.75	 Y # -0.671875	Z # 0.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.703125	 Y # -0.703125	Z # -0.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.796875	 Y # -0.671875	Z # -0.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.734375	 Y # -0.59375	Z # -0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.84375	 Y # -0.640625	Z # -0.046875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.75	 Y # -0.6875	Z # 0.03125	Humidity # 47.70412826538086	Hum Ambient temperature # 27.003022460937494			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.6875	 Y # -0.71875	Z # 0.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.6875	 Y # -0.734375	Z # -0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:52 CDT 2014	 X # -0.71875	 Y # -1.0625	Z # -0.296875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # -0.328125	 Y # -1.375	Z # -1.234375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # 0.578125	 Y # -2.0	Z # 1.296875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # 1.5	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # 1.984375	 Y # -2.0	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # -2.0	 Y # 1.71875	Z # -0.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # 1.984375	 Y # -1.625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # 1.984375	 Y # -1.625	Z # 2.0	Humidity # 47.77279281616211	Hum Ambient temperature # 26.917221679687493			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:53 CDT 2014	 X # -0.390625	 Y # -2.0	Z # 1.171875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # 0.015625	 Y # -2.0	Z # 0.265625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # -0.203125	 Y # -2.0	Z # -0.765625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375	Humidity # 47.77279281616211	Hum Ambient temperature # 26.917221679687493			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # -0.25	 Y # -2.0	Z # -1.40625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:54 CDT 2014	 X # -2.0	 Y # 0.875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # -1.640625	 Y # 0.65625	Z # -1.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # -2.0	 Y # 0.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # -1.90625	 Y # 1.796875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # -1.90625	 Y # 1.796875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # -1.953125	 Y # 0.953125	Z # -1.53125	Humidity # 47.64309310913086	Hum Ambient temperature # 26.917221679687493			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # -2.0	 Y # 1.546875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:55 CDT 2014	 X # 1.953125	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.21875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -2.0	 Y # 0.109375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # 1.9375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -2.0	 Y # -1.859375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # 0.3125	 Y # -0.140625	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -0.296875	 Y # 0.640625	Z # -1.984375	Humidity # 47.64309310913086	Hum Ambient temperature # 26.831420898437493			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -1.40625	 Y # -2.0	Z # -1.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:56 CDT 2014	 X # -2.0	 Y # 1.6875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # -1.515625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # -1.796875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # 0.734375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # -2.0	 Y # -1.953125	Z # -1.984375	Humidity # 47.505760192871094	Hum Ambient temperature # 26.831420898437493			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:57 CDT 2014	 X # 1.890625	 Y # -2.0	Z # -1.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -1.1875	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # 1.109375	 Y # -2.0	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -1.15625	 Y # 1.984375	Z # -1.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -2.0	 Y # -0.625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -1.5	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -2.0	 Y # -1.609375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375	Humidity # 47.30739212036133	Hum Ambient temperature # 26.748301391601565			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:58 CDT 2014	 X # -2.0	 Y # -2.0	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 0.125	 Y # -1.921875	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 1.984375	 Y # 0.390625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 1.984375	 Y # 0.390625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 0.09375	 Y # -2.0	Z # -1.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 0.109375	 Y # -2.0	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # -2.0	 Y # 1.953125	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375	Humidity # 47.17006301879883	Hum Ambient temperature # 26.745620117187492			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:55:59 CDT 2014	 X # -2.0	 Y # 0.125	Z # -1.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # -1.296875	 Y # 0.421875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 1.984375	 Y # 1.171875	Z # -1.65625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # -1.015625	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 0.640625	 Y # 1.125	Z # -0.921875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 1.984375	 Y # 0.03125	Z # 1.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.421875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 0.375	 Y # 1.34375	Z # -0.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 1.59375	 Y # 0.359375	Z # 0.5625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 0.125	 Y # 0.375	Z # 0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:00 CDT 2014	 X # 0.546875	 Y # 0.25	Z # 0.390625	Humidity # 47.12428665161133	Hum Ambient temperature # 26.65981933593749			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # 0.546875	 Y # 0.25	Z # -0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # 1.984375	 Y # 0.890625	Z # 0.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # 0.171875	 Y # 0.140625	Z # 0.609375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # -0.640625	 Y # 0.734375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -0.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # 0.84375	 Y # -0.828125	Z # -1.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # -2.0	 Y # 0.875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # -1.34375	 Y # -2.0	Z # -0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:01 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375	Humidity # 47.12428665161133	Hum Ambient temperature # 26.57401855468749			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # -1.8125	 Y # -0.1875	Z # -1.296875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # -2.0	 Y # 0.859375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # -0.21875	 Y # -1.71875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # -2.0	 Y # 0.15625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.703125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:02 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # -1.5625	 Y # 1.984375	Z # -1.984375	Humidity # 47.12428665161133	Hum Ambient temperature # 26.57401855468749			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # -0.921875	 Y # 0.296875	Z # -1.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # 1.65625	 Y # 0.890625	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # -1.3125	 Y # -0.25	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # -0.953125	 Y # 0.40625	Z # -1.265625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # 0.015625	 Y # -0.25	Z # -0.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # -1.890625	 Y # -0.828125	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:03 CDT 2014	 X # 1.390625	 Y # 0.984375	Z # 1.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # -2.0	 Y # 1.390625	Z # -1.984375	Humidity # 47.12428665161133	Hum Ambient temperature # 26.57401855468749			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # -2.0	 Y # -1.5	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # -1.0625	 Y # -2.0	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # -2.0	 Y # -0.875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # 1.640625	 Y # 0.390625	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:04 CDT 2014	 X # -0.484375	 Y # -2.0	Z # -1.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # -2.0	 Y # 0.421875	Z # -1.984375	Humidity # 47.19295120239258	Hum Ambient temperature # 26.488217773437505			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # 1.984375	 Y # 0.609375	Z # -0.765625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # -0.234375	 Y # -1.28125	Z # -1.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # -2.0	 Y # 1.1875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # -1.140625	 Y # -0.265625	Z # -1.46875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # 0.296875	 Y # -2.0	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:05 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # -1.15625	 Y # -0.015625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375	Humidity # 47.32265090942383	Hum Ambient temperature # 26.488217773437505			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # -1.28125	 Y # -2.0	Z # 0.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # -1.546875	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # -2.0	 Y # -1.921875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # 1.984375	 Y # -0.421875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -0.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:06 CDT 2014	 X # 0.890625	 Y # -2.0	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -1.375	 Y # -1.359375	Z # -1.984375	Humidity # 47.391319274902344	Hum Ambient temperature # 26.402416992187504			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -0.234375	 Y # -2.0	Z # 0.453125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -2.0	 Y # -0.296875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # 1.984375	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:07 CDT 2014	 X # -2.0	 Y # -0.28125	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # 1.09375	 Y # -1.640625	Z # -0.296875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -2.0	 Y # -1.3125	Z # -1.984375	Humidity # 47.391319274902344	Hum Ambient temperature # 26.402416992187504			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # 0.5625	 Y # -2.0	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -0.015625	 Y # -1.71875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -0.015625	 Y # -1.71875	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:08 CDT 2014	 X # -1.21875	 Y # -0.859375	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # -2.0	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 1.28125	Humidity # 47.345542907714844	Hum Ambient temperature # 26.319297485351562			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # -1.296875	 Y # -0.6875	Z # 0.265625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # 0.59375	 Y # 0.671875	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # 0.65625	 Y # -0.875	Z # -1.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # 0.34375	 Y # -0.515625	Z # -0.578125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # 0.5	 Y # -0.21875	Z # -0.34375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # 0.390625	 Y # 0.15625	Z # -1.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:09 CDT 2014	 X # -0.96875	 Y # -0.3125	Z # -1.390625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # 0.234375	 Y # -0.28125	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # 0.328125	 Y # -0.203125	Z # -0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # 0.15625	 Y # -0.15625	Z # -1.0625	Humidity # 47.406578063964844	Hum Ambient temperature # 26.316616210937504			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -0.453125	 Y # -0.296875	Z # -1.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -1.296875	 Y # -1.1875	Z # -0.578125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -1.296875	 Y # -1.1875	Z # 0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -0.25	 Y # 1.09375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -1.203125	 Y # -0.34375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -0.25	 Y # -0.59375	Z # -1.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:10 CDT 2014	 X # -1.78125	 Y # -0.375	Z # 0.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -2.0	 Y # 1.984375	Z # 0.359375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # 0.515625	 Y # 1.578125	Z # 1.328125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -0.765625	 Y # 1.984375	Z # -1.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -2.0	 Y # -0.546875	Z # -0.625	Humidity # 47.67361068725586	Hum Ambient temperature # 26.230815429687503			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -1.890625	 Y # -0.015625	Z # 0.28125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -1.578125	 Y # 0.25	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -0.734375	 Y # 1.984375	Z # 0.734375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # 0.40625	 Y # 0.96875	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -0.65625	 Y # 1.390625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:11 CDT 2014	 X # -1.65625	 Y # -0.40625	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -0.984375	 Y # -0.328125	Z # -0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -1.671875	 Y # -0.328125	Z # -0.25			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -0.890625	 Y # 1.984375	Z # 1.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -1.046875	 Y # 1.984375	Z # 1.234375	Humidity # 47.74227523803711	Hum Ambient temperature # 26.230815429687503			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -1.046875	 Y # 1.984375	Z # -1.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # 1.453125	 Y # 1.296875	Z # -1.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -0.859375	 Y # 0.5625	Z # -0.453125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -1.140625	 Y # 0.71875	Z # 2.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # -0.234375	 Y # 1.96875	Z # 1.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:12 CDT 2014	 X # 0.265625	 Y # 0.703125	Z # -1.9375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # -0.046875	 Y # -2.0	Z # 0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 1.984375	 Y # 1.40625	Z # -0.234375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.703125	 Y # -0.984375	Z # 0.421875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.5625	 Y # -0.515625	Z # 0.3125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.625	 Y # -0.6875	Z # 0.328125	Humidity # 47.67361068725586	Hum Ambient temperature # 26.230815429687503			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.578125	 Y # -0.640625	Z # 0.4375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.453125	 Y # -0.65625	Z # 0.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.421875	 Y # -1.0625	Z # 0.234375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # 0.46875	 Y # -0.765625	Z # -0.078125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:13 CDT 2014	 X # -0.0625	 Y # -0.90625	Z # -0.28125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # -0.1875	 Y # -0.96875	Z # 0.046875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # -0.015625	 Y # -0.96875	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # 0.015625	 Y # -1.015625	Z # 0.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # 0.015625	 Y # -1.015625	Z # 0.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # 0.109375	 Y # -0.984375	Z # 0.09375	Humidity # 48.512855529785156	Hum Ambient temperature # 26.230815429687503			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # 0.078125	 Y # -0.8125	Z # 0.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # -0.140625	 Y # -0.765625	Z # -0.328125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # -0.28125	 Y # -0.5625	Z # -1.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # 0.875	 Y # -1.5	Z # -0.25			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:14 CDT 2014	 X # 0.0625	 Y # -1.0	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.15625	 Y # -0.75	Z # -0.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.21875	 Y # -0.8125	Z # 0.25			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # 0.171875	 Y # -0.921875	Z # 0.46875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.15625	 Y # -0.84375	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.046875	 Y # -0.78125	Z # 0.75	Humidity # 56.15762710571289	Hum Ambient temperature # 26.230815429687503			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.015625	 Y # -0.75	Z # 0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # 0.0	 Y # -0.5625	Z # 0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # 0.015625	 Y # -0.65625	Z # 0.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.140625	 Y # -0.484375	Z # 0.375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:15 CDT 2014	 X # -0.328125	 Y # -0.5625	Z # -0.9375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.53125	 Y # -0.53125	Z # -0.78125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.53125	 Y # 0.21875	Z # -0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.53125	 Y # 0.21875	Z # -1.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.625	 Y # 0.15625	Z # -0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.265625	 Y # 0.078125	Z # -1.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.234375	 Y # -0.15625	Z # -0.984375	Humidity # 62.10101318359375	Hum Ambient temperature # 26.23349670410156			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # -0.046875	 Y # -0.015625	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # 0.203125	 Y # 0.140625	Z # -0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # 0.421875	 Y # 0.171875	Z # -0.28125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:16 CDT 2014	 X # 0.953125	 Y # 0.09375	Z # 0.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.9375	 Y # -0.09375	Z # 0.609375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.78125	 Y # -0.09375	Z # 0.953125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.359375	 Y # -0.09375	Z # 0.96875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.3125	 Y # -0.0625	Z # 1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.28125	 Y # -0.15625	Z # 1.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.25	 Y # -0.046875	Z # 1.0625	Humidity # 65.30541229248047	Hum Ambient temperature # 26.230815429687503			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.265625	 Y # -0.140625	Z # 1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.34375	 Y # -0.140625	Z # 0.6875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.40625	 Y # -0.125	Z # 0.234375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:17 CDT 2014	 X # 0.640625	 Y # 0.015625	Z # 1.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.5625	 Y # -0.140625	Z # 0.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.4375	 Y # -0.140625	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.5	 Y # -0.125	Z # 1.359375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.640625	 Y # -0.28125	Z # 0.28125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.5625	 Y # -0.03125	Z # 0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.46875	 Y # -0.125	Z # 1.25			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.140625	 Y # 0.09375	Z # 0.84375	Humidity # 68.72342681884766	Hum Ambient temperature # 27.936105957031252			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.421875	 Y # -0.046875	Z # 0.875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.4375	 Y # -0.046875	Z # 0.921875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:18 CDT 2014	 X # 0.4375	 Y # -0.0625	Z # 0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.453125	 Y # -0.0625	Z # 0.921875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.40625	 Y # -0.140625	Z # 0.921875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.40625	 Y # -0.15625	Z # 0.921875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.3125	 Y # -0.140625	Z # 0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.296875	 Y # -0.21875	Z # 0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.296875	 Y # -0.25	Z # 0.921875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.28125	 Y # -0.234375	Z # 0.9375	Humidity # 75.6510238647461	Hum Ambient temperature # 27.85298645019531			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.28125	 Y # -0.1875	Z # 0.96875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.234375	 Y # -0.0625	Z # 0.953125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:19 CDT 2014	 X # 0.03125	 Y # -0.015625	Z # 1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.03125	 Y # -0.015625	Z # 1.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.03125	 Y # -0.09375	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.03125	 Y # 0.046875	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.328125	 Y # -0.09375	Z # 0.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.109375	 Y # -0.21875	Z # 1.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.640625	 Y # -0.359375	Z # 0.484375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.578125	 Y # -0.078125	Z # 0.546875	Humidity # 81.13664245605469	Hum Ambient temperature # 27.76450439453125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.59375	 Y # -0.09375	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.625	 Y # -0.03125	Z # 0.8125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:20 CDT 2014	 X # 0.5625	 Y # 0.078125	Z # 0.796875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.578125	 Y # 0.0	Z # 0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.515625	 Y # 0.0625	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.53125	 Y # 0.03125	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.5	 Y # 0.015625	Z # 0.796875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.53125	 Y # 0.03125	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.515625	 Y # -0.015625	Z # 0.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.546875	 Y # -0.046875	Z # 1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.625	 Y # -0.15625	Z # 0.765625	Humidity # 85.04295349121094	Hum Ambient temperature # 27.42130126953125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:21 CDT 2014	 X # 0.578125	 Y # 0.03125	Z # 0.40625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.578125	 Y # 0.03125	Z # 0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.390625	 Y # 0.09375	Z # 1.359375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.296875	 Y # -0.015625	Z # 0.96875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.390625	 Y # 0.09375	Z # 1.140625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.46875	 Y # -0.140625	Z # 0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.5625	 Y # -0.09375	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.59375	 Y # -0.125	Z # 0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.625	 Y # -0.03125	Z # 0.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.609375	 Y # -0.0625	Z # 0.96875	Humidity # 87.85061645507813	Hum Ambient temperature # 27.93878723144531			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.640625	 Y # -0.109375	Z # 0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:22 CDT 2014	 X # 0.640625	 Y # -0.125	Z # 0.765625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.625	 Y # -0.078125	Z # 0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.640625	 Y # -0.078125	Z # 0.765625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.640625	 Y # -0.0625	Z # 0.59375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.671875	 Y # -0.03125	Z # 0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.59375	 Y # -0.21875	Z # 0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.6875	 Y # -0.25	Z # 0.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.65625	 Y # -0.234375	Z # 0.640625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.65625	 Y # -0.125	Z # 0.6875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.65625	 Y # -0.125	Z # 0.828125	Humidity # 89.84954071044922	Hum Ambient temperature # 28.021906738281253			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:23 CDT 2014	 X # 0.640625	 Y # -0.09375	Z # 0.78125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.6875	 Y # -0.046875	Z # 0.734375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.703125	 Y # -0.0625	Z # 0.5			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.609375	 Y # -0.0625	Z # 0.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.796875	 Y # -0.171875	Z # 0.9375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.8125	 Y # -0.296875	Z # 0.3125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.984375	 Y # -0.125	Z # 0.234375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 1.046875	 Y # -0.140625	Z # 0.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 0.90625	 Y # -0.0625	Z # -0.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 1.078125	 Y # 0.09375	Z # -0.078125	Humidity # 91.36781311035156	Hum Ambient temperature # 28.021906738281253			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:24 CDT 2014	 X # 1.109375	 Y # 0.015625	Z # 0.046875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 1.078125	 Y # -0.046875	Z # 0.546875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 1.015625	 Y # 0.078125	Z # 0.203125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.875	 Y # 0.1875	Z # 0.296875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.765625	 Y # -0.078125	Z # 0.5			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.8125	 Y # 0.015625	Z # 0.703125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.765625	 Y # -0.015625	Z # 0.453125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.765625	 Y # -0.015625	Z # 0.53125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.6875	 Y # -0.015625	Z # 1.15625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.9375	 Y # -0.15625	Z # 0.375	Humidity # 92.38253784179688	Hum Ambient temperature # 28.279309082031254			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:25 CDT 2014	 X # 0.640625	 Y # 0.09375	Z # 0.625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.796875	 Y # -0.078125	Z # 0.671875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.640625	 Y # -0.109375	Z # -0.5			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.5625	 Y # 0.0625	Z # 1.46875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 1.09375	 Y # -0.234375	Z # 0.453125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.734375	 Y # -0.265625	Z # 0.125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 1.765625	 Y # -0.953125	Z # -0.21875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.84375	 Y # -0.671875	Z # 0.21875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 1.015625	 Y # -0.796875	Z # 0.09375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.75	 Y # -0.015625	Z # -0.46875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:26 CDT 2014	 X # 0.453125	 Y # -0.3125	Z # -0.28125	Humidity # 93.15312194824219	Hum Ambient temperature # 28.879914550781244			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # 0.796875	 Y # -0.796875	Z # -0.671875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # 0.5	 Y # -0.625	Z # -0.71875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # 0.34375	 Y # -0.828125	Z # -0.828125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # 0.15625	 Y # -0.6875	Z # -0.75			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # -0.03125	 Y # -0.328125	Z # -1.109375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # -0.03125	 Y # -0.328125	Z # -0.796875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # -0.296875	 Y # -0.28125	Z # -0.734375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # -0.6875	 Y # -0.140625	Z # -0.515625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # -0.828125	 Y # -0.0625	Z # -0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:27 CDT 2014	 X # -1.1875	 Y # -0.03125	Z # -0.65625	Humidity # 93.75585174560547	Hum Ambient temperature # 28.80483886718749			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.78125	 Y # 0.0625	Z # -0.84375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.515625	 Y # 0.078125	Z # -0.859375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.5	 Y # 0.09375	Z # -0.890625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.390625	 Y # 0.109375	Z # -0.90625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.359375	 Y # 0.09375	Z # 0.9375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # 1.984375	 Y # -0.078125	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # 0.015625	 Y # 0.09375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:28 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.03125	Humidity # 94.11444091796875	Hum Ambient temperature # 28.622512207031242			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.03125	 Y # 0.09375	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.109375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:29 CDT 2014	 X # 0.0	 Y # 0.09375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # 0.0	 Y # 0.109375	Z # -1.015625	Humidity # 94.45777130126953	Hum Ambient temperature # 28.539392700195314			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # 0.0	 Y # 0.09375	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # 0.0	 Y # 0.09375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # -0.015625	 Y # 0.109375	Z # -1.0625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # -0.03125	 Y # 0.078125	Z # -0.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # 0.015625	 Y # 0.09375	Z # -0.984375			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # 0.03125	 Y # 0.171875	Z # -1.046875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:30 CDT 2014	 X # -0.015625	 Y # 0.046875	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.046875	 Y # 0.09375	Z # -1.046875			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # 0.0	 Y # 0.078125	Z # -1.046875	Humidity # 94.74768829345703	Hum Ambient temperature # 28.45091064453124			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # 0.0	 Y # 0.078125	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.03125	 Y # 0.0625	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # 0.0	 Y # 0.078125	Z # -1.0			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.046875	 Y # 0.078125	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.015625			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:31 CDT 2014	 X # -0.015625	 Y # 0.078125	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:32 CDT 2014	 X # -0.015625	 Y # 0.09375	Z # -1.03125			*
+Latitude # 39.03360084	Longitude # -94.57602077	 Date # Sat Jun 21 21:56:32 CDT 2014	 X # -0.03125	 Y # 0.078125	Z # -1.0	Humidity # 94.86976623535156	Hum Ambient temperature # 28.279309082031254			*
