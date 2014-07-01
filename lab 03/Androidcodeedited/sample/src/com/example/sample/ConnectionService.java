@@ -548,7 +548,7 @@ public class ConnectionService extends IntentService implements BluetoothAdapter
         File directory = new File (sdCard.getAbsolutePath() + "/Data");
         if(!directory.exists())
         directory.mkdirs();
-        String fname = "Sensorgroup7.txt";
+        String fname = "Group1Sensordata.txt";
         File file = new File (directory, fname);
         
         try {
