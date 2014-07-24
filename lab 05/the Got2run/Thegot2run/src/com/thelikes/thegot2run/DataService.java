@@ -37,7 +37,7 @@ public class DataService extends IntentService implements BluetoothAdapter.LeSca
 	 
     private static final String DEVICE_NAME = "SensorTag";
   
-    
+  
     /* Humidity Service */
     private static final UUID HUMIDITY_SERVICE = UUID.fromString("f000aa20-0451-4000-b000-000000000000");
     private static final UUID HUMIDITY_DATA_CHAR = UUID.fromString("f000aa21-0451-4000-b000-000000000000");
@@ -214,6 +214,7 @@ public class DataService extends IntentService implements BluetoothAdapter.LeSca
             t.train();*/
             //Update the overflow menu
             //invalidateOptionsMenu();
+            t.train();
         }
         
     }
@@ -531,7 +532,7 @@ public class DataService extends IntentService implements BluetoothAdapter.LeSca
         ArrayList<String> dataPoints = new ArrayList<String>();
         
         private void updateAccelerometerValue(BluetoothGattCharacteristic characteristic) {
-        	t.train();
+        	
         Float[] values = SensorTagData.extractAccelerometerReading(characteristic, 0);
         double x,y,z;
         x=values[0];
@@ -671,6 +672,7 @@ public class DataService extends IntentService implements BluetoothAdapter.LeSca
  	  String  string = buffer.toString();
  		File file = new File (directory, "learn.seq"); 
     	try { 
+    		if(file.exists())file.delete();
     		if(!file.exists()) file.createNewFile(); 
     		FileOutputStream out = new FileOutputStream(file,true); 
     		out.write(string.getBytes()); 

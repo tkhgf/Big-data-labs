@@ -42,10 +42,12 @@ public void	train() {
     OpdfMultiGaussianFactory initFactoryPunch = new OpdfMultiGaussianFactory(
             3);
     
-    Reader learnReaderPunch = new FileReader(new File (myDir, "hunger.seq"));
+    Reader learnReaderPunch = new FileReader(new File (myDir, "hungry.seq"));
     List<List<ObservationVector>> learnSequencesPunch = ObservationSequencesReader
             .readSequences(new ObservationVectorReader(), learnReaderPunch);
-    learnReaderPunch.close();
+    Log.i("Hunger File Readed : ",learnSequencesPunch.toString());
+    
+    //learnReaderPunch.close();
 
     KMeansLearner<ObservationVector> kMeansLearnerPunch = new KMeansLearner<ObservationVector>(
             x, initFactoryPunch, learnSequencesPunch);
@@ -75,12 +77,12 @@ public void	train() {
     OpdfMultiGaussianFactory initFactoryScrolldown = new OpdfMultiGaussianFactory(
             3);
 
-    Reader learnReaderScrolldown = new FileReader(new File (myDir, "stompfinal.seq"));
+    Reader learnReaderScrolldown = new FileReader(new File (myDir, "stompsmall.seq"));
     List<List<ObservationVector>> learnSequencesScrolldown = ObservationSequencesReader
             .readSequences(new ObservationVectorReader(),
                     learnReaderScrolldown);
-    learnReaderScrolldown.close();
-
+   // learnReaderScrolldown.close();
+    Log.i("StompFinal File Readed : ",learnReaderScrolldown.toString());
     KMeansLearner<ObservationVector> kMeansLearnerScrolldown = new KMeansLearner<ObservationVector>(
             x1, initFactoryScrolldown, learnSequencesScrolldown);
     // Create an estimation of the HMM (initHmm) using one iteration of the
@@ -110,9 +112,10 @@ public void	train() {
     OpdfMultiGaussianFactory initFactorySend = new OpdfMultiGaussianFactory(
             3);
 
-    Reader learnReaderSend = new FileReader(new File (myDir, "thirsty.seq"));
+    Reader learnReaderSend = new FileReader(new File (myDir, "t.seq"));
     List<List<ObservationVector>> learnSequencesSend = ObservationSequencesReader
             .readSequences(new ObservationVectorReader(), learnReaderSend);
+    Log.i("Thirsty File Readed : ",learnReaderSend.toString());
     learnReaderSend.close();
 
     KMeansLearner<ObservationVector> kMeansLearnerSend = new KMeansLearner<ObservationVector>(
@@ -141,7 +144,7 @@ public void	train() {
         List<List<ObservationVector>> testSequences = ObservationSequencesReader
                 .readSequences(new ObservationVectorReader(), testReader);
         testReader.close();
-        
+        Log.i("Text Readed : ",testSequences.toString());
         short gesture; // punch = 1, scrolldown = 2, send = 3
         double punchProbability, scrolldownProbability, sendProbability;
         Log.i("Test gesture Method : ", "Entered");
@@ -170,13 +173,13 @@ public void	train() {
             }
             Log.i("probabilities", punchProbability + "   " + sendProbability  + "   " + scrolldownProbability);
             if (gesture == 1) {
-            	System.out.println("This is a punch gesture");
+            	System.out.println("This is a Hungry gesture");
             	return "stomp";
             } else if (gesture == 2) {
-                System.out.println("This is a right-left gesture");
+                System.out.println("This is a Game Play gesture");
             	return "stomp";
             } else if (gesture == 3) {
-            	System.out.println("This is a left to right gesture");
+            	System.out.println("This is a Thirsty gesture");
             	return "stomp";
             }else{
             	return "others";
